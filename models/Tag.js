@@ -18,12 +18,6 @@ Tag.init(
       type: DataTypes.STRING,
       allowNull:false
     },
-    products: {
-      type: DataTypes.INTEGER,
-      // references:{
-        
-      // }
-    }
   },
   {
     sequelize,

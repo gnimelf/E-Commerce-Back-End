@@ -12,10 +12,6 @@ Category.init(
       primaryKey: true,
       allowNull: false,
       autoIncrement: true,
-      references:{
-        model: 'product',
-        key: 'category_id'
-      }
     },
     category_name:{
       type: DataTypes.STRING

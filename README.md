@@ -10,8 +10,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
 
 ## Installation
 
@@ -93,7 +95,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## DEMO
 
-[Demo](demo-link-here)
+[Demo](https://drive.google.com/file/d/1Rv6a5jNAoB17TU89Qqn3QYb8Z6dalyrZ/view?usp=sharing)
 
 ## Credits
 
